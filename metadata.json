@@ -1,0 +1,7 @@
+{
+  "name": "KOUSHIK MOTION - SaaS Motion Graphics Portfolio",
+  "description": "Premium cinematic portfolio for Koushik, a specialist in SaaS Motion Graphics and high-end video editing using After Effects and Premiere Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
